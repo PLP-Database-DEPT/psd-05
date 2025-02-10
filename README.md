@@ -15,9 +15,10 @@
 
 ---
 
-## 📝 **Submission Instructions**
-1. 📂 Clone the project to your local computer.
-2. ▶️ Run each query on MySQL Workbench and, once successful, copy and paste the query into `answers.sql` in Visual Studio Code.
+## 📝 Submission Instructions  
+📂 Write all your SQL queries in the **answers.sql** file.  
+✍️ Answer each question concisely and make sure your queries are clear and correct.  
+🗣️ Structure your responses clearly, and use comments if necessary to explain your approach.
 
 --- 
 
