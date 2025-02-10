@@ -1,4 +1,4 @@
-# SQL Assignment Week 5: Database Indexing and Optimization
+# 📝 Assignment: Database Indexing and Optimization
 
 ## 🎯 **Learning Objectives**
 * ➕ Add indexes to tables and analyze their impact on query performance.
